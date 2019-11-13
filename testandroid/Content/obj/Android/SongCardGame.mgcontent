@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/SongCardGame.wav</SourceFile>
+  <SourceTime>2019-11-12T09:26:21.2270794-06:00</SourceTime>
+  <DestFile>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/bin/Android/SongCardGame.xnb</DestFile>
+  <DestTime>2019-11-12T09:56:05.2942394-06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/bin/Android/SongCardGame.m4a</string>
+  </BuildOutput>
+</PipelineBuildEvent>

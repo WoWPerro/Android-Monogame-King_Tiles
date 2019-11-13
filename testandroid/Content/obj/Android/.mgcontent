@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Blue.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/10.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/11.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/12.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/13.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/2.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/3.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/4.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/5.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/6.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/7.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/8.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/9.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Hearts/As.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/10.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/11.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/12.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/13.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/2.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/3.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/4.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/5.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/6.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/7.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/8.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/9.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Cards/Rombos/As.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/dev.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/LOGOYT(512x512).png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/MadeBy.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Quit.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/SongCardGame.wav</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/StartButton.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/surface.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/surface2.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/1.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/10.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/11.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/12.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/13.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/14.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/15.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/16.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/17.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/18.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/19.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/2.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/20.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/3.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/4.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/5.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/6.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/7.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/8.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/Wallpaper_Phone/9.png</File>
+    <File>C:/Users/Carlo/Desktop/testandroid/testandroid/Content/WowperroFirmaWhite.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
